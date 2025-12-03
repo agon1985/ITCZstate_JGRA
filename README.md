@@ -32,6 +32,7 @@ Fig. 12 – “Precip_thresh_obs_reana_CMIP6.ipynb” – compute statistical di
 # Python scripts that produce figures in the supporting information file
 
 Fig. S1 – “ITCZ_state_errors_allbasins_supporting.ipynb” – plots ITCZ state error averaged over all ITCZ states and months in reanalyses and CMIP6 models for the east Pacific, central Pacific, Atlantic, and Indian Ocean regions
-Fig. S2 – “Obs_reanalysis_event_duration_supporting.ipynb” – produces interquartile range of the number of days of each ITCZ state in observations and reanalyses
-Fig. S3 – “Obs_ITCZ_states_abs_thresh_supporting.ipynb” – ITCZ state as a function of absolute precipitation threshold, from 1 to 9.5 mm/day in IMERG observations
 
+Fig. S2 – “Obs_reanalysis_event_duration_supporting.ipynb” – produces interquartile range of the number of days of each ITCZ state in observations and reanalyses
+
+Fig. S3 – “Obs_ITCZ_states_abs_thresh_supporting.ipynb” – ITCZ state as a function of absolute precipitation threshold, from 1 to 9.5 mm/day in IMERG observations
