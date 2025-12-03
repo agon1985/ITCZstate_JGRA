@@ -1,6 +1,8 @@
 # ITCZstate_JGRA
 JGRA ITCZ states paper scripts README
+
 Bilinearly daily precipitation data to a common 1 x 1 degree regular grid using Climate Data Operators (CDO, https://code.mpimet.mpg.de/projects/cdo) *or a programming language of choice(e.g., “cdo remapbil,r360x181 input_file.nc output_file.nc”)
+
 Shell script obs and reanalyses: “ITCZ_states_absthresh_obs_reana_savenc.sh”
 Shell script for CMIP6: “ITCZ_states_absthresh_CMIP6_savenc.sh”
 Python file to calculate ITCZ states: “ITCZ_states_absthresh_savenc.py”
